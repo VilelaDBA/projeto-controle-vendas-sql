@@ -1,2 +1,21 @@
-# projeto-controle-vendas-sql
-Projeto acadêmico de modelagem e análise de dados em SQL Server, incluindo criação de tabelas, relacionamentos e consultas para análise de faturamento e desempenho de vendas.
+# Projeto Controle de Vendas - SQL Server
+
+## 📌 Sobre o Projeto
+Sistema de controle de vendas desenvolvido em SQL Server com modelagem de banco de dados relacional.
+
+## 🛠 Tecnologias Utilizadas
+- SQL Server
+- T-SQL
+
+## 📊 Funcionalidades
+- Cadastro de clientes
+- Cadastro de produtos
+- Registro de vendas
+- Análise de faturamento por produto
+- Total de vendas por dia
+- Ticket médio por cliente
+
+## 📁 Estrutura
+- Criação de tabelas (Clientes, Produtos, Vendas)
+- Inserts de dados simulados
+- Consultas analíticas com JOIN, GROUP BY, SUM e COUNT
