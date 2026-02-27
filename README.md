@@ -3,6 +3,9 @@
 ## 📌 Sobre o Projeto
 Sistema de controle de vendas desenvolvido em SQL Server com modelagem de banco de dados relacional.
 
+## 🎯 Objetivo
+Praticar modelagem de banco de dados relacional e desenvolvimento de consultas analíticas utilizando SQL Server.
+
 ## 🛠 Tecnologias Utilizadas
 - SQL Server
 - T-SQL
